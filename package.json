@@ -1,7 +1,7 @@
 {
   "name": "ampersand-model-pouchdb-mixin",
   "description": "A mixin for extending ampersand-model with pouchdb persistance.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "",
   "bugs": {
     "url": "https://github.com/svnlto/ampersand-model-pouchdb-mixin/issues"
