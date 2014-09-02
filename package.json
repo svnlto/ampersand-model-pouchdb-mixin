@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "ampersand-state": "^4.3.2",
-    "ampersand-pouchdb-sync": "0.1.0"
+    "ampersand-pouchdb-sync": "^0.1.0"
   },
   "devDependencies": {
     "ampersand-registry": "0.x.x",
